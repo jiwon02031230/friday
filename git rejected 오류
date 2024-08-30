@@ -1,0 +1,3 @@
+git pull --rebase origin main
+git push --rebase origin main
+git push
